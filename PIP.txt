@@ -1,0 +1,16 @@
+python setupcx_Freeze.pyw build
+
+Or
+
+
+cxfreeze "Mantella GENERATOR NPCs Back History NG Setup.pyw" --target-dir dist --base-name=Win32GUI --icon "MantellaHB.ico"
+
+
+cxfreeze "Mantella GENERATOR NPCs Back History NG.pyw" --target-dir dist --base-name=Win32GUI --icon "MantellaHB.ico"
+
+
+
+
+
+
+
