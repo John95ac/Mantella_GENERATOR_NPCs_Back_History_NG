@@ -10,7 +10,7 @@ This program is capable of creating stories, but it works as follows:
 
 - It has many sections and buttons. To understand it better, here is an image that will help you. In short, this program helps create JSON files that modify the NPCs' stories. It can create a consistent story for NPCs from mods or existing ones in the game. It can also save and reuse settings or text to make the process easier. It even has a button to create the mod, meaning it creates the packages by itself for later publication. In summary, that's it.
 
-[![mantella-RMexe.jpg](https://i.postimg.cc/htVFHPPM/mantella-RMexe.jpg)](https://postimg.cc/w1xbNzNs)
+[![POWERPNT-p46-Wr8-G7-Hk.jpg](https://i.postimg.cc/zvk7n6JC/POWERPNT-p46-Wr8-G7-Hk.jpg)](https://postimg.cc/jnLyT8n2)
 
 - It's important that if you have an original voice and you will create the name and load it into the game, just write it in the program. The program can support all types of texts without restricting the limit. If it's not on the list, just write it, and let me know via Discord or here. That way, I can add it, or you can create a template. That is also possible.
 
