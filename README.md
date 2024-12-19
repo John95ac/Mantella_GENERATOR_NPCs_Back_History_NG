@@ -14,6 +14,8 @@ This program is capable of creating stories, but it works as follows:
 
 - It's important that if you have an original voice and you will create the name and load it into the game, just write it in the program. The program can support all types of texts without restricting the limit. If it's not on the list, just write it, and let me know via Discord or here. That way, I can add it, or you can create a template. That is also possible.
 
+product_video: 'https://www.youtube.com/watch?v=8_Y18FlUUDI'
+
 # Acknowledgements
 
 I want to give special thanks to everyone who helped me with ideas and even as beta testers, most of them from Discord and the Yuriana mod and Ostim mod communities. Thank you for your support and patience.
