@@ -1,4 +1,4 @@
-# 📜 "Mantella GENERATOR NPCs Back History NG"
+# 📜 "Mantella Generator NPCs Back History NG"
 
 It is a simple but very useful program that allows you to generate stories and modifications for NPCs in the Mantella mod. This program is standalone and can function independently of Mantella-Adding-NPCs-Back-History-NG. However, if you want to install the modified stories or share them, SKSE is necessary.
 
